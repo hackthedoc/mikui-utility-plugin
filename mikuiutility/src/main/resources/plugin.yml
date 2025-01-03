@@ -3,3 +3,12 @@ main: com.hackthedoc.mikuiutility.Plugin
 version: 0.0.1
 api-version: 1.21
 author: hackthedoc
+commands:
+  questrecord:
+    usage: /questrecord <number>
+    description: save the number in a data file with the format DDMMAAAA;number
+    permissions: mikuiutility.admin
+permissions:
+  mikuiutility.admin:
+    description: allow use of some commands of the utility plugin
+    default: op
