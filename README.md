@@ -1,27 +1,9 @@
-# Plugin Name
+# Mikui Utility Plugin
 
-Quick Description
+A private utility plugin for a french minecraft server
 
 Works for 1.21+ at least.
 > There was no test on prior versions
-
-## Features
-
-- feature a
-- feature b
-- feature c
-
-## Commands
-
-- command a
-- command b
-- command c
-
-## Permissions
-
-- permission a
-- permission b
-- permission c
 
 ## Installation
 
@@ -37,4 +19,5 @@ No Requirements
 ## Configuration
 
 ```yaml
-
+no configuration required
+```

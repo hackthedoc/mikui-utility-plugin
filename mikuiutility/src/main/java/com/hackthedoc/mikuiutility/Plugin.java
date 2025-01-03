@@ -1,8 +1,8 @@
-package com.hackthedoc.template;
+package com.hackthedoc.mikuiutility;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-import com.hackthedoc.template.utils.MessageUtils;
+import com.hackthedoc.mikuiutility.utils.MessageUtils;
 
 public class Plugin extends JavaPlugin {
 

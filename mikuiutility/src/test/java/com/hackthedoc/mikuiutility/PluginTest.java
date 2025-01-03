@@ -1,4 +1,4 @@
-package com.hackthedoc.template;
+package com.hackthedoc.mikuiutility;
 
 import static org.junit.Assert.assertTrue;
 

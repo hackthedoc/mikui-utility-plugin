@@ -1,0 +1,5 @@
+name: MikuiUtility
+main: com.hackthedoc.mikuiutility.Plugin
+version: 0.0.1
+api-version: 1.21
+author: hackthedoc
